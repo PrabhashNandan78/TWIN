@@ -1,0 +1,5 @@
+# Third-party libraries actually imported in this repository.
+# The core simulation (FarmTwin / PlantTwin / SensorTwin / Models /
+# DecisionSupport logic) uses only the Python standard library.
+matplotlib
+streamlit
